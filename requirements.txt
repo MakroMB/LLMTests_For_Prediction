@@ -1,0 +1,18 @@
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+plotly>=5.20.0
+
+# Modelos
+prophet>=1.1.5
+statsmodels>=0.14.0
+scikit-learn>=1.4.0
+torch>=2.2.0
+neuralforecast>=1.7.0
+
+# Chronos (Amazon)
+git+https://github.com/amazon-science/chronos-forecasting.git
+
+# Utils
+tqdm>=4.66.0
